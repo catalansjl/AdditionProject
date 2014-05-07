@@ -7,7 +7,7 @@ public class additionProject {
 	{
 		
 		// TODO Auto-generated method stub
-		Scanner input = new Scanner(system.in);
+		Scanner input = new Scanner(System.in);
 		
 		int num1;
 		int num2;
